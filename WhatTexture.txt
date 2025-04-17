@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: WhatTexture
+## Notes: Shows texture paths for items in tooltips
+## Version: 1.0
+## Author: Spitonit
+
+WhatTexture.lua
