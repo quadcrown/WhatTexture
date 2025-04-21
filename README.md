@@ -1,0 +1,1 @@
+Since Turtle WoW has changed the textures to many popular consumables, I made this to query the new textures for Addon developers that may want to use it. I do not suspect it has much context outside of this but feel free to use it. 
